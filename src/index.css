@@ -98,3 +98,16 @@ h4 {
   line-height: 25px;
   letter-spacing: 1px;
 }
+
+.active {
+  opacity: 1 !important;
+}
+
+.active-toggle {
+  transform: translate(0%) !important;
+  opacity: 1 !important;
+}
+
+.active-toggle-btn {
+  opacity: 25% !important;
+}
